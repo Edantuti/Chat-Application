@@ -1,4 +1,4 @@
-# Assignment for Wundrsight
+# Assignment for Company
 Objective:- Creating a basic chat application using purely Websocket
 Requirements:-
 1. Responsive
